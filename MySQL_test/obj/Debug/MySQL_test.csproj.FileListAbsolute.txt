@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\bin\Debug\MySQL_test.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\obj\Debug\MySQL_test.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\obj\Debug\MySQL_test.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\obj\Debug\MySQL_test.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\obj\Debug\MySQL_test.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\bin\Debug\MySQL_test.exe
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\bin\Debug\MySQL_test.pdb
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\obj\Debug\MySQL_test.exe
+c:\users\asus\documents\visual studio 2013\Projects\MySQL_test\MySQL_test\obj\Debug\MySQL_test.pdb
